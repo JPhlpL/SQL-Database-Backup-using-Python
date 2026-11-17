@@ -49,7 +49,7 @@ def DatabaseBackup():
     # MySQL server connection details
     host = 'localhost'
     user = 'root'
-    password = 'AIOUiojhkn2'
+    password = '<password>'
 
     # Backup directory
     backup_dir = r'\\dir'
